@@ -9,6 +9,7 @@ What I'm working on
 
 
 Built so far
+
 Maven: AI business mentor for freelancers (React, Groq API, Vercel)
 ContextIQ: Consent-first personalisation engine (React, Framer Motion) 
 Wardrobe AI: AI outfit suggestions from clothing images or manual input (React, Flask, Hugging Face)
