@@ -15,6 +15,7 @@ ContextIQ: Consent-first personalisation engine (React, Framer Motion)
 Wardrobe AI: AI outfit suggestions from clothing images or manual input (React, Flask, Hugging Face)
 
 Stack I work with
+
 Frontend — React, Vite, Tailwind CSS, Framer Motion
 Backend — Flask, FastAPI, Node.js, Vercel Serverless
 AI/ML — Groq API, Hugging Face, RAG, LLM integration
